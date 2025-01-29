@@ -38,7 +38,7 @@ courses, instructors, and events.
 
 We'd love to hear your thoughts! Connect with us:
 
-- [LinkedIn](https://www.linkedin.com/in/amit-fullstack-developer/)
+- [LinkedIn](https://www.linkedin.com/in/amit-bishwas-3359a7230/)
 - E-mail: amitsarkar019999@gmail.com
 
 ---
